@@ -1,0 +1,108 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #0ba1e1;
+}
+
+/* Menú de navegación */
+nav {
+    background-color: #0a0909;
+    color: #2c2480ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(242, 244, 247);
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Sección de Inicio */
+#inicio {
+    background-color: #f0b3ff; /* Color rosa claro */
+    padding: 20px;
+    text-align: center;
+}
+
+#inicio h1 {
+    color: #7a00cc;
+}
+
+/* Sección de Bibliografía */
+#bibliografia {
+    background-color: #cce7ff; /* Color azul claro */
+    padding: 20px;
+}
+
+#bibliografia h2 {
+    color: #006bb3;
+}
+
+/* Sección de Habilidades */
+#habilidades {
+    background-color: #d9ffcc; /* Color verde claro */
+    padding: 20px;
+}
+
+#habilidades h2 {
+    color: #339933;
+}
+
+/* Sección de Sueños */
+#suenos {
+    background-color: #ffd9b3; /* Color naranja claro */
+    padding: 20px;
+}
+
+#suenos h2 {
+    color: #cc6600;
+}
+
+/* Sección de Viajes */
+#viajes {
+    background-color: #ffcccc; /* Color rojo claro */
+    padding: 20px;
+}
+
+#viajes h2 {
+    color: #cc0000;
+}
+
+/* Sección de Proyectos */
+#proyectos {
+    background-color: #e6ccff; /* Color morado claro */
+    padding: 20px;
+}
+
+#proyectos h2 {
+    color: #6600cc;
+}
+
+/* Sección de Contacto */
+#contacto {
+    background-color: #ccffeb; /* Color verde agua claro */
+    padding: 20px;
+}
+
+#contacto h2 {
+    color: #009973;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
